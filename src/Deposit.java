@@ -1,6 +1,5 @@
 public class Deposit extends Transaction {
 
-    private double amount;
     private final static String PURPOSE = "Deposit";
     private final Account ACCOUNT;
 

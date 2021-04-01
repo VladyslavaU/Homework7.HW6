@@ -1,5 +1,3 @@
-import java.util.Collections;
-
 public interface Record {
     public void record();
 

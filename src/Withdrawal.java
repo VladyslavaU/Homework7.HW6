@@ -1,5 +1,3 @@
-import java.util.UUID;
-
 public class Withdrawal extends Transaction {
     private final Account ACCOUNT;
 
